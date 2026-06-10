@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- ═══════════════════ ANIMATED HEADER ═══════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Navyz%20Abdillah%20Zikhav&fontSize=42&fontColor=00f5ff&animation=twinkling&fontAlignY=36&desc=⚡%20Full-Stack%20Developer%20%7C%20PENS%20Surabaya%2C%20Indonesia%20🇮🇩&descSize=17&descAlignY=58&descColor=c084fc"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Navyz%20Abdillah%20Zikhav&fontSize=42&fontColor=00f5ff&animation=twinkling&fontAlignY=36&desc=⚡%20Full-Stack%20Developer%20%7C%20CyberSecurity%20%7C%20PENS%20Surabaya%2C%20Indonesia%20🇮🇩&descSize=17&descAlignY=58&descColor=c084fc"/>
 
 <!-- ═══════════════════ TYPING ANIMATION ═══════════════════ -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=700&height=55&lines=console.log(%22Hello%2C+World!%22)+%F0%9F%91%8B;Full-Stack+Developer+%7C+React+%26+PHP;Computer+Technician+%40+Dede+Computer;Student+at+PENS+Surabaya+🎓;Always+building%2C+always+learning+🚀;Ask+me+about+React+%26+Anime+Design+✨" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=700&height=55&lines=console.log(%22Hello%2C+World!%22)+%F0%9F%91%8B;Full-Stack+Developer+%7C+React+%26+PHP;Computer+Technician+%40+Dede+Computer;Student+at+PENS+Surabaya+%F0%9F%8E%93;Always+building%2C+always+learning+%F0%9F%9A%80;Ask+me+about+React+%26+Anime+Design+%E2%9C%A8" alt="Typing SVG" />
 
 <br/>
 
@@ -44,7 +44,20 @@ const navyz = {
 
 ## ⚡ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,php,tailwind,ps,ai&theme=dark&perline=8" />
+### 💻 Development
+<img src="https://skillicons.dev/icons?i=html,css,js,react,php&theme=dark&perline=5" />
+
+### 🔐 Cybersecurity
+<img src="https://skillicons.dev/icons?i=kali,linux,bash,python&theme=dark&perline=4" />
+
+<br/>
+
+![Ghidra](https://img.shields.io/badge/Ghidra-FF0000?style=for-the-badge&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logoColor=white)
+![Hashcat](https://img.shields.io/badge/Hashcat-000000?style=for-the-badge&logoColor=white)
 
 </div>
 
@@ -70,9 +83,18 @@ const navyz = {
 
 <div align="center">
 
-## 🏆 Trophies
+## 🔥 Top Languages
 
-<img src="https://github-profile-trophy.vercel.app/?username=navyzuu&theme=tokyonight&no-frame=true&column=7&margin-w=6&no-bg=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navyzuu&layout=donut-vertical&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=a8b2d8"/>
+
+<br/>
+
+### 🌱 Currently Sharpening
+
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=00f5ff)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Cyber Security](https://img.shields.io/badge/Cyber%20Security-%23FF0000.svg?style=for-the-badge&logo=hackthebox&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 </div>
 
