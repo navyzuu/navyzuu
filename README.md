@@ -30,7 +30,7 @@ const navyz = {
   location : "Surabaya, Indonesia 🇮🇩",
   education: "PENS — Politeknik Elektronika Negeri Surabaya",
   role     : "Computer Technician & Manager @ Dede Computer",
-  passion  : "Full-Stack Developer", "Cyber Security",
+  passion  : ["Full-Stack Development", "Cybersecurity"],
   interests: ["React", "PHP", "Anime Design", "UI/UX"],
   contact  : "navyzaz17@gmail.com",
   status   : "Open to collaborate 🚀",
@@ -74,7 +74,7 @@ const navyz = {
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=navyzuu&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=00f5ff&ring=c084fc&fire=c084fc&currStreakLabel=00f5ff&sideLabels=a8b2d8&dates=a8b2d8&sideNums=00f5ff&currStreakNum=c084fc" />
+<img src="https://streak-stats.demolab.com/?user=navyzuu&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=00f5ff&ring=c084fc&fire=c084fc&currStreakLabel=00f5ff&sideLabels=a8b2d8&dates=a8b2d8&sideNums=00f5ff&currStreakNum=c084fc" />
 
 </div>
 
@@ -126,7 +126,10 @@ const navyz = {
 
 <br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+<!-- DAILY_QUOTE:START -->
+> *"A good programmer is someone who looks both ways before crossing a one-way street."*  
+> — **Doug Linder**
+<!-- DAILY_QUOTE:END -->
 
 <br/>
 
