@@ -127,8 +127,8 @@ const navyz = {
 <br/>
 
 <!-- DAILY_QUOTE:START -->
-> *"A good programmer is someone who looks both ways before crossing a one-way street."*  
-> — **Doug Linder**
+> *"The quieter you become, the more you are able to hear."*  
+> — **Kali Linux**
 <!-- DAILY_QUOTE:END -->
 
 <br/>
