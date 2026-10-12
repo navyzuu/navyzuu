@@ -30,7 +30,7 @@ const navyz = {
   location : "Surabaya, Indonesia 🇮🇩",
   education: "PENS — Politeknik Elektronika Negeri Surabaya",
   role     : "Computer Technician & Manager @ Dede Computer",
-  passion  : ["Full-Stack Development", "Cybersecurity"],
+  passion  : "Full-Stack Developer", "Cyber Security",
   interests: ["React", "PHP", "Anime Design", "UI/UX"],
   contact  : "navyzaz17@gmail.com",
   status   : "Open to collaborate 🚀",
@@ -74,7 +74,7 @@ const navyz = {
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=navyzuu&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=00f5ff&ring=c084fc&fire=c084fc&currStreakLabel=00f5ff&sideLabels=a8b2d8&dates=a8b2d8&sideNums=00f5ff&currStreakNum=c084fc" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=navyzuu&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=00f5ff&ring=c084fc&fire=c084fc&currStreakLabel=00f5ff&sideLabels=a8b2d8&dates=a8b2d8&sideNums=00f5ff&currStreakNum=c084fc" />
 
 </div>
 
@@ -98,6 +98,16 @@ const navyz = {
 
 </div>
 
+<!-- ═══════════════════ DIVIDER ═══════════════════ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<div align="center">
+
+## 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=navyzuu&theme=tokyo-night&bg_color=0d1117&color=00f5ff&line=c084fc&point=00f5ff&area=true&area_color=c084fc&hide_border=true" width="100%"/>
+
+</div>
 
 <!-- ═══════════════════ DIVIDER ═══════════════════ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -116,10 +126,7 @@ const navyz = {
 
 <br/>
 
-<!-- DAILY_QUOTE:START -->
-> *"The quieter you become, the more you are able to hear."*  
-> — **Kali Linux**
-<!-- DAILY_QUOTE:END -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
 <br/>
 
