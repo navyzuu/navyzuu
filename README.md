@@ -117,8 +117,8 @@ const navyz = {
 <br/>
 
 <!-- DAILY_QUOTE:START -->
-> *"There's no patch for human stupidity."*  
-> — **Kevin Mitnick**
+> *"Simplicity is prerequisite for reliability."*  
+> — **Edsger W. Dijkstra**
 <!-- DAILY_QUOTE:END -->
 
 <br/>
