@@ -117,8 +117,8 @@ const navyz = {
 <br/>
 
 <!-- DAILY_QUOTE:START -->
-> *"Simplicity is prerequisite for reliability."*  
-> — **Edsger W. Dijkstra**
+> *"The only truly secure system is one that is powered off, cast in concrete, and sealed in a room with armed guards."*  
+> — **Gene Spafford**
 <!-- DAILY_QUOTE:END -->
 
 <br/>
