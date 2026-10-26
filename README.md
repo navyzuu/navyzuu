@@ -117,8 +117,8 @@ const navyz = {
 <br/>
 
 <!-- DAILY_QUOTE:START -->
-> *"Never trust, always verify."*  
-> — **Zero Trust Principle**
+> *"Complexity is the enemy of security."*  
+> — **Gary McGraw**
 <!-- DAILY_QUOTE:END -->
 
 <br/>
