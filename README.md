@@ -117,8 +117,8 @@ const navyz = {
 <br/>
 
 <!-- DAILY_QUOTE:START -->
-> *"Complexity is the enemy of security."*  
-> — **Gary McGraw**
+> *"Premature optimization is the root of all evil."*  
+> — **Donald Knuth**
 <!-- DAILY_QUOTE:END -->
 
 <br/>
