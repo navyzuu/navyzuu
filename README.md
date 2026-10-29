@@ -117,8 +117,8 @@ const navyz = {
 <br/>
 
 <!-- DAILY_QUOTE:START -->
-> *"Technology trust is a good thing, but monitoring and checking is still better."*  
-> — **Stephane Nappo**
+> *"Code is like humor. When you have to explain it, it's bad."*  
+> — **Cory House**
 <!-- DAILY_QUOTE:END -->
 
 <br/>
