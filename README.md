@@ -117,8 +117,8 @@ const navyz = {
 <br/>
 
 <!-- DAILY_QUOTE:START -->
-> *"Bad programmers worry about the code. Good programmers worry about data structures."*  
-> — **Linus Torvalds**
+> *"Hacking is about understanding how rules work and exploring the boundaries."*  
+> — **Anonymous**
 <!-- DAILY_QUOTE:END -->
 
 <br/>
