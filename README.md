@@ -117,8 +117,8 @@ const navyz = {
 <br/>
 
 <!-- DAILY_QUOTE:START -->
-> *"Hacking is about understanding how rules work and exploring the boundaries."*  
-> — **Anonymous**
+> *"A good programmer is someone who looks both ways before crossing a one-way street."*  
+> — **Doug Linder**
 <!-- DAILY_QUOTE:END -->
 
 <br/>
