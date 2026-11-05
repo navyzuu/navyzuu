@@ -117,8 +117,8 @@ const navyz = {
 <br/>
 
 <!-- DAILY_QUOTE:START -->
-> *"The quieter you become, the more you are able to hear."*  
-> — **Kali Linux**
+> *"Talk is cheap. Show me the code."*  
+> — **Linus Torvalds**
 <!-- DAILY_QUOTE:END -->
 
 <br/>
