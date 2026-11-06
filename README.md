@@ -117,8 +117,8 @@ const navyz = {
 <br/>
 
 <!-- DAILY_QUOTE:START -->
-> *"Talk is cheap. Show me the code."*  
-> — **Linus Torvalds**
+> *"Security is not a product, but a process."*  
+> — **Bruce Schneier**
 <!-- DAILY_QUOTE:END -->
 
 <br/>
