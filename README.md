@@ -117,8 +117,8 @@ const navyz = {
 <br/>
 
 <!-- DAILY_QUOTE:START -->
-> *"Security is not a product, but a process."*  
-> — **Bruce Schneier**
+> *"There's no patch for human stupidity."*  
+> — **Kevin Mitnick**
 <!-- DAILY_QUOTE:END -->
 
 <br/>
