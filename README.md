@@ -117,8 +117,8 @@ const navyz = {
 <br/>
 
 <!-- DAILY_QUOTE:START -->
-> *"First, solve the problem. Then, write the code."*  
-> — **John Johnson**
+> *"There are only two types of companies: those that have been hacked, and those that will be."*  
+> — **Robert S. Mueller III**
 <!-- DAILY_QUOTE:END -->
 
 <br/>
