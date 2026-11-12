@@ -117,8 +117,8 @@ const navyz = {
 <br/>
 
 <!-- DAILY_QUOTE:START -->
-> *"There are only two types of companies: those that have been hacked, and those that will be."*  
-> — **Robert S. Mueller III**
+> *"Given enough eyeballs, all bugs are shallow."*  
+> — **Eric S. Raymond**
 <!-- DAILY_QUOTE:END -->
 
 <br/>
