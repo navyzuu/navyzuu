@@ -117,8 +117,8 @@ const navyz = {
 <br/>
 
 <!-- DAILY_QUOTE:START -->
-> *"Given enough eyeballs, all bugs are shallow."*  
-> — **Eric S. Raymond**
+> *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."*  
+> — **Martin Fowler**
 <!-- DAILY_QUOTE:END -->
 
 <br/>
