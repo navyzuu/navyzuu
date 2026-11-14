@@ -117,8 +117,8 @@ const navyz = {
 <br/>
 
 <!-- DAILY_QUOTE:START -->
-> *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."*  
-> — **Martin Fowler**
+> *"The best way to predict the future is to invent it."*  
+> — **Alan Kay**
 <!-- DAILY_QUOTE:END -->
 
 <br/>
