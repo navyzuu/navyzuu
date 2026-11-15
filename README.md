@@ -117,8 +117,8 @@ const navyz = {
 <br/>
 
 <!-- DAILY_QUOTE:START -->
-> *"The best way to predict the future is to invent it."*  
-> — **Alan Kay**
+> *"The most dangerous phrase in the language is: 'We've always done it this way.'"*  
+> — **Grace Hopper**
 <!-- DAILY_QUOTE:END -->
 
 <br/>
