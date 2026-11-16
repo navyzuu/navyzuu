@@ -117,8 +117,8 @@ const navyz = {
 <br/>
 
 <!-- DAILY_QUOTE:START -->
-> *"The most dangerous phrase in the language is: 'We've always done it this way.'"*  
-> — **Grace Hopper**
+> *"Never trust, always verify."*  
+> — **Zero Trust Principle**
 <!-- DAILY_QUOTE:END -->
 
 <br/>
