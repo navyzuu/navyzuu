@@ -117,8 +117,8 @@ const navyz = {
 <br/>
 
 <!-- DAILY_QUOTE:START -->
-> *"Premature optimization is the root of all evil."*  
-> — **Donald Knuth**
+> *"Technology trust is a good thing, but monitoring and checking is still better."*  
+> — **Stephane Nappo**
 <!-- DAILY_QUOTE:END -->
 
 <br/>
