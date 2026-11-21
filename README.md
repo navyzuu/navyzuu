@@ -117,8 +117,8 @@ const navyz = {
 <br/>
 
 <!-- DAILY_QUOTE:START -->
-> *"Code is like humor. When you have to explain it, it's bad."*  
-> — **Cory House**
+> *"Controlling complexity is the essence of computer programming."*  
+> — **Brian Kernighan**
 <!-- DAILY_QUOTE:END -->
 
 <br/>
