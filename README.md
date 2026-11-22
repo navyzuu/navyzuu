@@ -117,8 +117,8 @@ const navyz = {
 <br/>
 
 <!-- DAILY_QUOTE:START -->
-> *"Controlling complexity is the essence of computer programming."*  
-> — **Brian Kernighan**
+> *"If debugging is removing bugs, then programming must be putting them in."*  
+> — **Edsger W. Dijkstra**
 <!-- DAILY_QUOTE:END -->
 
 <br/>
