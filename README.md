@@ -117,8 +117,8 @@ const navyz = {
 <br/>
 
 <!-- DAILY_QUOTE:START -->
-> *"If debugging is removing bugs, then programming must be putting them in."*  
-> — **Edsger W. Dijkstra**
+> *"Bad programmers worry about the code. Good programmers worry about data structures."*  
+> — **Linus Torvalds**
 <!-- DAILY_QUOTE:END -->
 
 <br/>
